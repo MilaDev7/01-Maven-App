@@ -1,4 +1,8 @@
 this is ashako course
+<<<<<<< HEAD
 
 
 this change local develop branch
+=======
+this change from develop remote branch
+>>>>>>> 8d96ab0108bdb686bcec2f959f7869bc04fbc01c
