@@ -1,5 +1,0 @@
-this first text
-this is secound text from develop
- 
-
-this thired text
